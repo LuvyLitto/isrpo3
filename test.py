@@ -1,1 +1,1 @@
-print('secodnd')
+print('second')
